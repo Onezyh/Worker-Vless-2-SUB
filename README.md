@@ -110,8 +110,8 @@ Telegram全能搜索：[@BingCN](https://t.me/BingCN)
 本声明适用于 GitHub 上的 “Edgetunnel” 项目（以下简称“该项目”），项目链接为：
 [https://edgetunnel.github.io/edgetunnel/](https://github.com/cmliu/edgetunnel)
 
+该项目为Edgetunnel项目的克隆整理及备份，原作者享有本项目内容的所有权；
 该项目被设计和开发仅供学习、研究和安全测试目的。
-该项目为Edgetunnel项目的克隆及整理，原作者享有本项目内容的所有权；
 它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
 
      
