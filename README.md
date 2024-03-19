@@ -2,8 +2,7 @@
 
 ### 全新的通过 Cloudflare Workers 搭建VLESS 节点，自动生成优选线路订阅内容生成器
 
-Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
-Telegram全能搜索：[@BingCN](https://t.me/BingCN)
+**Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)    Telegram全能搜索：[@BingCN](https://t.me/BingCN)**
 
 # Workers 部署方法 [关注博主](https://www.youtube.com/@onezyhcn)
 
