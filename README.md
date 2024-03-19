@@ -32,7 +32,7 @@ Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
  - 修改 `addressesapi` 参数，在脚本中设置 `addressesapi` 变量为 **优选IP地址txt文件** 的 URL。例如：
 	```js
 	let addressesapi = [
-		'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
+		'https://raw.githubusercontent.com/onezyhcn/WorkerVless2sub/main/addressesapi.txt',
  		'https://addressesapi.090227.xyz/CloudFlareYes',
 	];
 	```
@@ -60,7 +60,7 @@ Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)
 
 ### 3. 修改 快速订阅入口 以及 默认内置 Vless 节点信息：
 
-  例如您的workers项目域名为：`sub.cmliussss.workers.dev`；
+  例如您的workers项目域名为：`sub.onezyhcnssss.workers.dev`；
    - 添加 `TOKEN` 变量，快速订阅访问入口，默认值为: `auto` ，获取订阅器默认节点订阅地址即 `/auto` ，例如 `https://sub.onezyhcn.workers.dev/auto`
    - 添加 `HOST` 变量，例如 `edgetunnel-2z2.pages.dev`；
    - 添加 `UUID` 变量，例如 `30e9c5c8-ed28-4cd9-b008-dc67277f8b02`；
