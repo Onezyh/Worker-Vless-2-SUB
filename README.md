@@ -109,7 +109,7 @@
 本声明适用于 GitHub 上的 “Edgetunnel” 项目（以下简称“该项目”），项目链接为：
 [https://edgetunnel.github.io/edgetunnel/](https://github.com/cmliu/edgetunnel)
 
-(https://github.com/cmliu/WorkerVless2sub/tree/main)
+https://github.com/cmliu/WorkerVless2sub/tree/main
 
 该项目为Edgetunnel项目的克隆整理及备份，原作者享有本项目内容的所有权；
 该项目被设计和开发仅供学习、研究和安全测试目的。
